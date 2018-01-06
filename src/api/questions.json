@@ -1,0 +1,34 @@
+{
+    "questions":[
+                 {
+                 "title":"第一题",
+                 "question": "这个新时代，是承前启后、继往开来、在新的历史条件下继续夺取（   ）伟大胜利的时代。",
+                 "answers": [{"answer":"A.优秀"},
+                            {"answer":"B.良好"},
+                            {"answer":"C.一般"},
+                            {"answer":"D.极差"}
+                             ],
+                 "rightAnswerIndex":2
+                 },
+                 {
+                 "title":"第二题",
+                 "question": "我国社会主要矛盾已经转化为人民日益增长的美好生活需要和（   ）之间的矛盾。",
+                 "answers": [{"answer":"A.落后的社会生产力"},
+                            {"answer":"B.创新驱动"},
+                            {"answer":"C.绿色发展"},
+                            {"answer":"D.不平衡不充分的发展"}
+                             ],
+                 "rightAnswerIndex":3
+                 },
+                 {
+                 "title":"第三题",
+                 "question": "必须认识到，我国社会主要矛盾的变化，没有改变我们对我国社会主义所处历史阶段的判断，我国仍处于并将长期处于（   ）的基本国情没有变，我国是世界最大发展中国家的国际地位没有变。",
+                 "answers": [{"answer":"A.优秀"},
+                             {"answer":"B.良好"},
+                             {"answer":"C.一般"},
+                             {"answer":"D.极差"}
+                             ],
+                 "rightAnswerIndex":1
+                 }
+    ]
+}

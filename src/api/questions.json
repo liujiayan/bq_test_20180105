@@ -1,34 +1,13 @@
-{
-    "questions":[
-                 {
-                 "title":"第一题",
-                 "question": "这个新时代，是承前启后、继往开来、在新的历史条件下继续夺取（   ）伟大胜利的时代。",
-                 "answers": [{"answer":"A.优秀"},
-                            {"answer":"B.良好"},
-                            {"answer":"C.一般"},
-                            {"answer":"D.极差"}
-                             ],
-                 "rightAnswerIndex":2
-                 },
-                 {
-                 "title":"第二题",
-                 "question": "我国社会主要矛盾已经转化为人民日益增长的美好生活需要和（   ）之间的矛盾。",
-                 "answers": [{"answer":"A.落后的社会生产力"},
-                            {"answer":"B.创新驱动"},
-                            {"answer":"C.绿色发展"},
-                            {"answer":"D.不平衡不充分的发展"}
-                             ],
-                 "rightAnswerIndex":3
-                 },
-                 {
-                 "title":"第三题",
-                 "question": "必须认识到，我国社会主要矛盾的变化，没有改变我们对我国社会主义所处历史阶段的判断，我国仍处于并将长期处于（   ）的基本国情没有变，我国是世界最大发展中国家的国际地位没有变。",
-                 "answers": [{"answer":"A.优秀"},
-                             {"answer":"B.良好"},
-                             {"answer":"C.一般"},
-                             {"answer":"D.极差"}
-                             ],
-                 "rightAnswerIndex":1
-                 }
+{"list":[
+            {"question":"【信念坚定】事业信心、政治意识、看齐意识","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【敢于担当】主动担责、以身作则、以上率下","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【实干进取】大干实干、务实奋进、大胆突破","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【敬业勤苦】爱岗敬业、勤奋刻苦、恪尽职守","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【清正廉洁】诚信守纪、严以律己、严管队伍","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【勇于创新】转型思维、求新求变、引领突破","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【强化管理】注重管理、组织管控、提升效能","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【沟通协作】善于沟通、主动配合、通力协作","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【高效执行】快速执行、保质保量、目标达成","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]},
+            {"question":"【主动学习】持续学习、获得新知、提升能力","answers" :[{"text":"优秀","numb":10},{"text":"良好","numb":8},{"text":"一般","numb":6},{"text":"较差","numb":4}]}
     ]
 }

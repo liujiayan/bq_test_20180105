@@ -7,7 +7,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      redirect: '/answer'
+      redirect: '/answer',
+      name:""
     },
     {
       path: '/answer',
